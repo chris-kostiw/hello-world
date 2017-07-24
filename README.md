@@ -8,3 +8,5 @@ THIS change was made in VSCode/vscode-branch-1
 Change 1
 
 Change 2
+
+MAKE ME CONFLICTED
